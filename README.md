@@ -33,7 +33,7 @@
 
 ## Introduction
 
-Designed for use with [GitHub Classroom](https://classroom.github.com/) and [GatorGrader](https://github.com/GatorEducator/gatorgrader/), this repository contains the starter files for a laboratory assignment six in a Data Abstraction introductory computer science class that uses the Java programming language. The GitHub Actions CI builds for this repository will pass, as evidenced by a green ✔ instead of a red ✗ appearing in the commit logs. 
+Designed for use with [GitHub Classroom](https://classroom.github.com/) and [GatorGrader](https://github.com/GatorEducator/gatorgrader/), this repository contains the starter files for a laboratory assignment six in a Data Abstraction introductory computer science class that uses the Java programming language. The GitHub Actions CI builds for this repository will pass, as evidenced by a green ✔ instead of a red ✗ appearing in the commit logs.
 
 This assignment requires a programmer to implement and test a benchmarking framework that supports the empirical evaluation of a `PasswordChecker`. More details about the password checking strategy are provided later in this document. You can learn about experimental studies by reading the content in Section 4.1\. Please note that this assignment will also require you to read and uses Java classes that contain a test suite. The programmer is also responsible for learning how to run and extend a test suite written in the JUnit testing framework, as explained in Section 1.9\. As verified by [Checkstyle](https://github.com/checkstyle/checkstyle), the source code for all of the Java source code files must adhere to all of the requirements in the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
 
