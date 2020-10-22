@@ -296,4 +296,4 @@ All grades for the assignments in this course will be reported through Canvas. F
 
 ## Optional Bonus Challenge
 
-Learn how to use regular expression to specify a particular password pattern given the password requirements of the assignment. Please note `java.util.regex.Matcher` and java.util.regex.Pattern` classes imported in the `PasswordChecker` class for this purpose.
+Learn how to use regular expression to specify a particular password pattern given the password requirements of the assignment. Please note `java.util.regex.Matcher` and `java.util.regex.Pattern` classes imported in the `PasswordChecker` class for this purpose.
