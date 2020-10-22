@@ -12,7 +12,7 @@ import java.util.Arrays;
 /**
  * A JUnit test suite for the ResultsTable.
  *
- * @author Gregory M. Kapfhammer
+ * @author Janyl Jumadinova
  */
 
 public class TestResultsTable {

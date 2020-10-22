@@ -9,7 +9,7 @@ import org.junit.Test;
 /**
  * A JUnit test suite for the PasswordChecker class.
  *
- * @author Gregory M. Kapfhammer
+ * @author Janyl Jumadinova
  */
 
 public class TestPasswordChecker {

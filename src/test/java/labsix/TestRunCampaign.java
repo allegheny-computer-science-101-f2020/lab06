@@ -10,7 +10,7 @@ import org.junit.Test;
 /**
  * A JUnit test suite for the RunCampaign class.
  *
- * @author Gregory M. Kapfhammer
+ * @author Janyl Jumadinova
  */
 
 public class TestRunCampaign {
