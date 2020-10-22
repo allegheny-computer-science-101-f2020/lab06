@@ -104,7 +104,7 @@ src/test:
 # --> check the technical writing for various characteristics
 writing/reflection.md:
     ConfirmFileExists
-    CountFileParagraphs --count 8
+    CountFileParagraphs --count 9
     CountFileWords --count 700
     CountMarkdownTags --tag "heading" --count 11
     MatchFileFragment --fragment "Add Your Name Here" --count 0 --exact

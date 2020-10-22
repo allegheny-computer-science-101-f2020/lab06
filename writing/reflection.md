@@ -39,3 +39,7 @@ Please provide a response to this question.
 ## After completing this assignment, what is one experience for which you are grateful?
 
 Please provide a response to this question.
+
+## I Adhered to the Code of Conduct Guide while Completing this Lab Project
+
+Add Your Name Here
