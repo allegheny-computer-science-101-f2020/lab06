@@ -31,6 +31,8 @@
 
 - [Lab Assessment](#lab-assessment)
 
+- [Optional Bonus Challenge](#optional-bonus-challenge)
+
 ## Introduction
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/) and [GatorGrader](https://github.com/GatorEducator/gatorgrader/), this repository contains the starter files for a laboratory assignment six in a Data Abstraction introductory computer science class that uses the Java programming language. The GitHub Actions CI builds for this repository will pass, as evidenced by a green ✔ instead of a red ✗ appearing in the commit logs.
@@ -291,3 +293,7 @@ The grade that a student receives on this assignment will have the following com
 - **Mastery of Technical Knowledge and Skills [up to 10% of the lab grade]**: Students will receive a part of their grade when their GitHub repository reveals that they have mastered all of the technical knowledge and skills developed during the completion of this project. As a part of this grade, the instructor will assess aspects of the project including, but not limited to, the use of effective source code comments and Git commit messages. Students are encouraged to ask the course instructor or a student technical leader to use the GitHub issue tracker to provide feedback on how well their work demonstrates mastery of the assignment's technical knowledge and skills. All members of the team are expected to contribute to the technical implementation of the lab.
 
 All grades for the assignments in this course will be reported through Canvas. Feedback on lab assignments will be provided through a student's GitHub repository using the comment in the "Feedback" pull request.
+
+## Optional Bonus Challenge
+
+Learn how to use regular expression to specify a particular password pattern given the password requirements of the assignment. Please note `java.util.regex.Matcher` and java.util.regex.Pattern` classes imported in the `PasswordChecker` class for this purpose.
