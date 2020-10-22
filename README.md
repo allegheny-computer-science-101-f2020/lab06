@@ -33,6 +33,10 @@
 
 - [Optional Bonus Challenge](#optional-bonus-challenge)
 
+## Objectives
+
+To continue to practice using GitHub to access the files for an assignment.  You will complete a programming project using source code provided in the textbook and by the course instructor, ultimately implementing a framework for experimentally evaluating a password checking program.You will learn how to create a data table and calculate an order of growth ratio and the worst case time complexity of your password checking algorithm. You will also continue to learn how to implement and test a Java program and to write a Markdown file, practicing how to use a grading tool to assess your progress towards correctly completing the project.
+
 ## Introduction
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/) and [GatorGrader](https://github.com/GatorEducator/gatorgrader/), this repository contains the starter files for a laboratory assignment six in a Data Abstraction introductory computer science class that uses the Java programming language. The GitHub Actions CI builds for this repository will pass, as evidenced by a green ✔ instead of a red ✗ appearing in the commit logs.
